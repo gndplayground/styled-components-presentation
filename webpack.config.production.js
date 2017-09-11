@@ -11,7 +11,7 @@ module.exports = {
   output: {
     filename: 'bundle-[hash].js',
     path: path.resolve(__dirname, 'dist'),
-    publicPath: '/',
+    publicPath: '/styled-components-presentation',
   },
 
   devtool: 'source-map',
