@@ -1,0 +1,2 @@
+webpackJsonp([53],{630:function(e,t,a){"use strict";Object.defineProperty(t,"__esModule",{value:!0}),t.default={center:!0,steps:[{key:"slide27_renderText",data:{animation:"opacity",type:"text",center:!0,data:"Create inline styles in our component"}},{key:"slide27_renderList",data:{animation:"opacity",type:"list",center:!0,key:"slide27_renderList",data:["Radium"]}}]}}});
+//# sourceMappingURL=53.bundle-c582a9092361f168de6a.js.map

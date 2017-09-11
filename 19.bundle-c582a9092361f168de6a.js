@@ -1,0 +1,2 @@
+webpackJsonp([19],{664:function(e,t,a){"use strict";Object.defineProperty(t,"__esModule",{value:!0}),t.default={center:!0,steps:[{key:"slide58_renderText",data:{center:!0,animation:"opacity",type:"text",data:"CSS-In-JS might not be bad as you think :)"}},{key:"slide58_renderText2",data:{center:!0,animation:"opacity",type:"text",data:"Please give it a chance!"}}]}}});
+//# sourceMappingURL=19.bundle-c582a9092361f168de6a.js.map

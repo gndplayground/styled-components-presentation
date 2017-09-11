@@ -1,0 +1,2 @@
+webpackJsonp([56],{627:function(e,t,i){"use strict";Object.defineProperty(t,"__esModule",{value:!0}),t.default={center:!0,steps:[{key:"slide24_renderText",data:{animation:"opacity",type:"text",center:!0,data:"So which library we should use?  We should check the list"}},{key:"slide24_renderLink",data:{animation:"opacity",type:"link",center:!0,data:{url:"https://github.com/MicheleBertoli/css-in-js",text:"CSS In JS libraries"}}}]}}});
+//# sourceMappingURL=56.bundle-c582a9092361f168de6a.js.map

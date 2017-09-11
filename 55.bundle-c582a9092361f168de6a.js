@@ -1,0 +1,2 @@
+webpackJsonp([55],{628:function(e,t,a){"use strict";Object.defineProperty(t,"__esModule",{value:!0}),t.default={center:!0,steps:[{key:"slide25_renderText",data:{animation:"opacity",type:"text",center:!0,data:"Well, go back to plain CSS is better... Just kidding :)"}}]}}});
+//# sourceMappingURL=55.bundle-c582a9092361f168de6a.js.map

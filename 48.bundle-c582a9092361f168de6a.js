@@ -1,0 +1,2 @@
+webpackJsonp([48],{635:function(e,t,s){"use strict";Object.defineProperty(t,"__esModule",{value:!0}),t.default={center:!0,steps:[{key:"slide31_renderText",data:{animation:"opacity",type:"text",center:!0,data:"Inline styles have problems"}},{key:"slide31_renderList",data:{animation:"opacity",type:"list",center:!0,key:"slide27_renderList",data:["Debugging is hard","Can’t use pseudo classes","Can't use pseudo elements","Can't use media queries","Animations",'Need "!important" to override CSS']}}]}}});
+//# sourceMappingURL=48.bundle-c582a9092361f168de6a.js.map

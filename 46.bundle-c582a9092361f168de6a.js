@@ -1,0 +1,2 @@
+webpackJsonp([46],{637:function(e,t,a){"use strict";Object.defineProperty(t,"__esModule",{value:!0}),t.default={center:!0,steps:[{key:"slide33_renderText",data:{animation:"opacity",type:"text",center:!0,data:"My favorite is Styled Components by Max Stoiber"}},{key:"slide33_img",data:{animation:"opacity",type:"img",data:{isInSrc:!0,src:"styledLogo.png",width:"180px"}}}]}}});
+//# sourceMappingURL=46.bundle-c582a9092361f168de6a.js.map

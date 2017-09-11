@@ -1,0 +1,2 @@
+webpackJsonp([23],{660:function(e,t,a){"use strict";Object.defineProperty(t,"__esModule",{value:!0}),t.default={center:!0,steps:[{key:"slide54_renderText",data:{animation:"opacity",type:"text",center:!0,data:"React Native"}},{key:"slide54_renderLink",data:{animation:"opacity",type:"link",center:!0,data:{url:"https://www.styled-components.com/docs/basics#react-native",text:"Supported!"}}}]}}});
+//# sourceMappingURL=23.bundle-c582a9092361f168de6a.js.map

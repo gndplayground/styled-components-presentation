@@ -1,0 +1,2 @@
+webpackJsonp([28],{655:function(e,t,a){"use strict";Object.defineProperty(t,"__esModule",{value:!0}),t.default={center:!0,steps:[{key:"slide5_renderText",data:{animation:"opacity",type:"text",center:!0,data:"Yay! With the power of CSS, we created our <Button /> component "}}]}}});
+//# sourceMappingURL=28.bundle-c582a9092361f168de6a.js.map

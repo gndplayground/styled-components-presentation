@@ -1,0 +1,2 @@
+webpackJsonp([72],{611:function(e,t,a){"use strict";Object.defineProperty(t,"__esModule",{value:!0}),t.default={center:!0,steps:[{key:"slide1_renderText",data:{center:!0,animation:"opacity",type:"text",data:"We love React and love the way it thinkings."}},{key:"slide1_renderText2",data:{center:!0,animation:"opacity",type:"text",data:"Focus on components!"}}]}}});
+//# sourceMappingURL=72.bundle-c582a9092361f168de6a.js.map

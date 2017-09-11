@@ -1,0 +1,2 @@
+webpackJsonp([32],{651:function(e,t,a){"use strict";Object.defineProperty(t,"__esModule",{value:!0}),t.default={center:!0,steps:[{key:"slide46_renderText",data:{animation:"opacity",type:"text",center:!0,data:"Styled Components can also do extra things"}}]}}});
+//# sourceMappingURL=32.bundle-c582a9092361f168de6a.js.map

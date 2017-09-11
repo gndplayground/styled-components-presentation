@@ -1,0 +1,2 @@
+webpackJsonp([51],{632:function(e,t,a){"use strict";Object.defineProperty(t,"__esModule",{value:!0}),t.default={center:!0,steps:[{key:"slide29_renderText",data:{animation:"opacity",type:"text",center:!0,data:"Inline style approach example"}},{key:"slide29_img",data:{animation:"opacity",type:"img",data:{isInSrc:!0,src:"inlineStyleExample.png"}}}]}}});
+//# sourceMappingURL=51.bundle-c582a9092361f168de6a.js.map

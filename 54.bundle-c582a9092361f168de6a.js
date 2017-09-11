@@ -1,0 +1,2 @@
+webpackJsonp([54],{629:function(e,t,a){"use strict";Object.defineProperty(t,"__esModule",{value:!0}),t.default={center:!0,steps:[{key:"slide26_renderText",data:{animation:"opacity",type:"text",center:!0,data:"Can we group them to any categories?"}}]}}});
+//# sourceMappingURL=54.bundle-c582a9092361f168de6a.js.map
